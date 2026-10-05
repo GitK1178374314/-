@@ -21,7 +21,7 @@
 <img width="530" height="614" alt="屏幕截图 2026-10-05 134524" src="https://github.com/user-attachments/assets/133b7d45-b5f7-4518-aa6d-f93b15c5b436" />
 
 
-**💡使用提示**：运行环境 Windows 10 / Windows 11，单文件绿色免安装。**第一次打开务必先配置设备信息，再输入账号密码登录。**
+💡**使用提示**：运行环境 Windows 10 / Windows 11，单文件绿色免安装。**第一次打开务必先配置设备信息，再输入账号密码登录。**
 
 ## 🙏致谢
 
@@ -31,7 +31,7 @@
 
 美信乐跑是基于开源项目 **NekoSportsWorldTool** 二次开发的校园跑步辅助工具。本项目完整保留原版底层核心逻辑、接口请求与数据同步机制，仅针对 UI 界面、功能布局、使用体验进行优化升级。软件为单文件绿色版，无需安装，开箱即用。
 
-##📸 使用截图
+## 📸 使用截图
 
 <img width="1280" height="800" alt="1" src="https://github.com/user-attachments/assets/94523f30-5616-4f39-a7b6-5c2d55ff50c4" />
 <img width="1280" height="800" alt="2" src="https://github.com/user-attachments/assets/9f22f122-20b5-445e-975e-16874af3a43e" />
