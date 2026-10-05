@@ -18,6 +18,9 @@
 
 哈尔滨的十二月，真的太冷了。呜呜呜。
 
+<img width="530" height="614" alt="屏幕截图 2026-10-05 134524" src="https://github.com/user-attachments/assets/133b7d45-b5f7-4518-aa6d-f93b15c5b436" />
+
+
 **使用提示**：运行环境 Windows 10 / Windows 11，单文件绿色免安装。**第一次打开务必先配置设备信息，再输入账号密码登录。**
 
 ## 致谢
